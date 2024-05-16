@@ -1,0 +1,2 @@
+str1 = '\x47 \x4F \x4D \x41 \x54 \x48 \x49'
+print(str1)
