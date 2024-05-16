@@ -1,0 +1,6 @@
+mystr="All animal are equal.some are more equal"
+vowels="aeiou"
+count=0
+for x in mystr:
+    if x.lower() in vowels:count+=1
+print(count)
