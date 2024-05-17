@@ -1,0 +1,10 @@
+from array import *
+array1 = array('u',['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'])
+print(array1[6])
+print(array1[14])
+print(array1[12])
+print(array1[0])
+print(array1[19])
+print(array1[7])
+print(array1[8])
+print((array1[6]),(array1[14]),(array1[12]),(array1[0]),(array1[19]),(array1[7]),(array1[8]))
